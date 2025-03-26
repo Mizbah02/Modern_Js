@@ -14,9 +14,9 @@
 // }
 
 // //with single Parameter
-// let num4 = n =>{
-//     console.log(n);
-// }
+ let num4 = n =>{
+     console.log(n);
+ }
 
 var obj ={
     name :"Mizbah",
