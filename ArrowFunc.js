@@ -28,7 +28,7 @@ var obj ={
 };
 
 
-// num();
+ num();
 // num1();
 // console.log(num2());
 // num3(100);
