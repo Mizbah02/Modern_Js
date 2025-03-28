@@ -14,3 +14,4 @@ let arr1 = [...arr];         //copy of arr , no reference involved .
 console.log(newArr);
 
 //we  can also use spread operator for object .
+//also do a study on rest operator .
