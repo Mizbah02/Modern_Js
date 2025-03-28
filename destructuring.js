@@ -1,7 +1,7 @@
 //https://chatgpt.com/share/67e6b40f-b47c-800f-8bed-a662c9394af9
 
 
-//swapping using 
+//swapping 
 
         let a = 5,b=10;
         [a,b]=[b,a];
