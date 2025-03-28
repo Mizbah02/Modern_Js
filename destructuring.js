@@ -27,7 +27,7 @@
         let {roll , id } = obj ;
         console.log(roll);
 
-        //giving variable name explicitly 
+        //giving alias
         let {roll:Roll , id:ID } = obj ;
         console.log(ID);
 
