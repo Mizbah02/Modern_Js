@@ -10,6 +10,7 @@
 //arr.push()
 //arr.map()
 //arr.reduce()
+//copyWithin(target , start , end )
 
 class my{
     constructor(name , age){
